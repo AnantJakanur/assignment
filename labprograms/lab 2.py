@@ -40,9 +40,8 @@ print(a)
 else:
 To undo cell deletion use Ctrl+M Z or the Undo option in the Edit menu
 
-7/20/23, 9:45 AM Second Program.ipynb - Colaboratory
 
-https://colab.research.google.com/drive/1WS6G-4HMlO0OkEWVNw6RexVMtLJl5n7e#scrollTo=bQa6_DiJedV4&printMode=true 2/3
+
 print("Fibonacci Sequence")
 while (count < n):
 print(a, end = " ")
@@ -51,3 +50,8 @@ c = a + b
 a = b
 b = c
 count += 1
+enter the value of n: 15
+Fibonacci Sequence
+0 1 1 2 3 5 8 13 21 34 55 89 144 233 377
+Factorial: 120
+Binomial co-efficient: 10.0
